@@ -1,8 +1,8 @@
 Package: datashield
 Maintainer: <datashield@obiba.org>
 Author: <datashield@obiba.org>
-Version: 2.1
+Version: 3.0.0
 License: GPL-3
 Title: Datashield meta-package (server side)
 Description: This package installs as dependencies all other DataSHIELD packages for server side.
-Depends: nlme, dsbase, dsmodelling
+Depends: nlme, dsBase, dsModelling, dsGraphics, dsStats
