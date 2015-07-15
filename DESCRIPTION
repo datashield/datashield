@@ -5,4 +5,4 @@ Version: 3.0.1
 License: GPL-3
 Title: Datashield meta-package (server side)
 Description: This package installs as dependencies all other DataSHIELD packages for server side.
-Depends: nlme, dsBase, dsModelling, dsGraphics, dsStats
+Depends: nlme, dsBase, dsModelling, dsGraphics, dsStats, rgdal, rgeos, sp, maptools
